@@ -7,5 +7,7 @@ https://user-images.githubusercontent.com/37100054/234933927-d6cb8490-2322-48a6-
 
 Made with Pure HTML only, you can find the styles (CSS) internally in the HTML file. 
 
-Just download the index.html file and run it in your local server 
+Just download the index.html file and run it in your local server.
+
+The Images used in this website are all absolute.
 
